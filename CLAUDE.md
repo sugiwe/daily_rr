@@ -37,3 +37,6 @@ Ruby Silver試験対策およびRails実務で必要な知識の反復学習（1
 - いきなり`main`ブランチにはプッシュしない。
 - `drills/YYYY-MM-DD.md`を更新する際は、新しいブランチを作成してプッシュすること。
 - sugiweさんに確認をとってからマージ（またはsugiweさんがマージ）する。
+- 解説およびドキュメント化の際は、可能な限り以下の公式リファレンスの関連URLを記載する。
+  - [Ruby リファレンスマニュアル](https://docs.ruby-lang.org/ja/latest/doc/index.html)
+  - [Ruby on Rails ガイド](https://railsguides.jp/)
