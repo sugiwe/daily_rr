@@ -57,7 +57,7 @@ Ruby技術者認定試験（Silver）の対策や実務で必要な知識を中�
 
 ## ⚙️ 技術情報
 
-- **AIアシスタント**: cacao (Clawdbotを使用)
+- **AIアシスタント**: cacao (Clawdbot/Moltbotの愛称)
 - **学習環境**: Discord上でのインタラクティブなセッション
 - **ドキュメント化**: Markdownを使用した構造化されたドキュメント
 - **品質管理**: Gemini Code Assistによる自動PRレビューで情報の正確性を向上
